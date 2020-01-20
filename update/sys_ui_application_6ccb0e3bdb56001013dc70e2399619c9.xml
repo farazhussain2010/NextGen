@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>End User Project</name>
+        <order/>
+        <roles>x_441042_crm.eup_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>faraz.hussain</sys_created_by>
+        <sys_created_on>2020-01-19 09:07:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ccb0e3bdb56001013dc70e2399619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>End User Project</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CRM" source="x_441042_crm">ba3a1d33db12001013dc70e2399619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM">ba3a1d33db12001013dc70e2399619b9</sys_scope>
+        <sys_update_name>sys_ui_application_6ccb0e3bdb56001013dc70e2399619c9</sys_update_name>
+        <sys_updated_by>faraz.hussain</sys_updated_by>
+        <sys_updated_on>2020-01-19 09:07:33</sys_updated_on>
+    </sys_ui_application>
+</record_update>

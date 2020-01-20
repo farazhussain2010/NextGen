@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Quote line" max_length="40" name="x_441042_crm_quote_line" type="collection">
+        <element attributes="encode_utf8=false" label="Quote" max_length="32" name="quote" reference="x_441042_crm_quote" type="reference"/>
+        <index name="index">
+            <element name="quote"/>
+        </index>
+    </element>
+</database>

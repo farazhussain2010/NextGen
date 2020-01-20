@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Opportunity" max_length="40" name="x_441042_crm_opportunity" type="collection">
+        <element attributes="encode_utf8=false" label="End User Project" max_length="32" name="end_user_project" reference="x_441042_crm_eup" type="reference"/>
+    </element>
+</database>

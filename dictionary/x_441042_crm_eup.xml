@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="End User Project" max_length="40" name="x_441042_crm_eup" type="collection"/>
+</database>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_441042_crm_quote" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Quote - Default view" name="x_441042_crm_quote" related_list="NULL" sys_domain="global" view="Default view">a958d548db62001013dc70e239961948</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_441042_crm_quote_line.quote</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>faraz.hussain</sys_created_by>
+            <sys_created_on>2020-01-20 00:01:23</sys_created_on>
+            <sys_id>2158d548db62001013dc70e239961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>faraz.hussain</sys_updated_by>
+            <sys_updated_on>2020-01-20 00:01:23</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Quote - Default view" name="x_441042_crm_quote" related_list="NULL" sys_domain="global" view="Default view">a958d548db62001013dc70e239961948</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_441042_crm_invoice.quote</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>faraz.hussain</sys_created_by>
+            <sys_created_on>2020-01-20 00:01:23</sys_created_on>
+            <sys_id>2558d548db62001013dc70e239961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>faraz.hussain</sys_updated_by>
+            <sys_updated_on>2020-01-20 00:01:23</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Quote - Default view</calculated_name>
+            <filter/>
+            <name>x_441042_crm_quote</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>faraz.hussain</sys_created_by>
+            <sys_created_on>2020-01-20 00:01:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a958d548db62001013dc70e239961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quote - Default view</sys_name>
+            <sys_package display_value="CRM" source="x_441042_crm">ba3a1d33db12001013dc70e2399619b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CRM">ba3a1d33db12001013dc70e2399619b9</sys_scope>
+            <sys_update_name>sys_ui_related_x_441042_crm_quote_null</sys_update_name>
+            <sys_updated_by>faraz.hussain</sys_updated_by>
+            <sys_updated_on>2020-01-20 00:01:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
